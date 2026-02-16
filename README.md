@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Marin Donkov
-- 👀 I’m interested in ... blockchain law and IT law
-- 🌱 I’m currently learning ... new things everytday :)
-- 💞️ I’m looking to collaborate on ... blockchain projects - legal
-- 📫 How to reach me ... yardlawfirm@gmail.com
+maker
